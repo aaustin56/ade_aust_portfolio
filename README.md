@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi! I'm Adrienne, an aspiring full-stack developer with a passion for technology, creativity, and lifelong learning. I currently work in the healthcare industry as a Health Information Management Tech I, but I'm transitioning into web development through the FreeCodeCamp certified full-stack development curriculum.
+Hi! I'm Adrienne, an aspiring full-stack developer with a passion for technology, creativity, and lifelong learning. I currently work in the healthcare industry as a Health Information Management Tech I, but I'm interested in transitioning to web development through the FreeCodeCamp certified full-stack development curriculum.
 
 ## 💻 Skills
 
